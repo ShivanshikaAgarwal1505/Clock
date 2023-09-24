@@ -1,5 +1,5 @@
-const strips = [document.querySelectorAll(".strip")];
-const numberSize = "8"; // in rem
+const strips = [...document.querySelectorAll(".strip")];
+const numberSize = "7.9"; // in rem
 
 // highlight number i on strip s for 1 second
 function highlight(strip, d) {
