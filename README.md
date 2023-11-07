@@ -2,4 +2,4 @@
 
 #HTML #CSS #JavaScript
 
-![image info](./Google Chrome 2023-09-24 23-11-46.mp4)
+![image](https://github.com/ShivanshikaAgarwal1505/Clock/assets/113771299/bd8ee467-2708-4bbf-80f7-8c4cab62cb0c)
